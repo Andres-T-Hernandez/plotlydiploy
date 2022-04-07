@@ -1,0 +1,20 @@
+body {
+
+    color: #830a83;
+}
+
+.jumbotron {
+    background-image: url("background.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+
+  h3, .h3 {
+    font-size: 1.1em;
+  }
+  
+
+  h5, .h5 {
+    font-size: 1em;
+  }
